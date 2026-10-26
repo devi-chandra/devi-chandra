@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm J. Devi
 
-<!--
-**devi-chandra/devi-chandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Science & Machine Learning | CSE — AI & Data Science
 
-Here are some ideas to get you started:
+I build data-driven applications that turn raw data into useful insights — from predictive modeling and computer vision to interactive analytics dashboards.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Computer Science student specializing in Artificial Intelligence and Data Science
+- 📊 Interested in data analysis, machine learning, model evaluation, and applied AI
+- 🧪 Building projects that combine data processing, predictive models, and practical applications
+- 🌱 Strengthening my foundations in Python, SQL, statistics, and machine learning
+
+## Technical Skills
+
+**Languages:** Python, SQL, Java (basics)  
+**Data Analysis:** Pandas, NumPy, data cleaning, EDA, data visualization  
+**Machine Learning:** Scikit-learn, TensorFlow, Keras, CNNs, model evaluation  
+**Development:** Streamlit, Flask, Git, GitHub
+
+## Selected Projects
+
+### Clinical AI Risk Stratification Engine
+Machine-learning application exploring dengue and malaria risk prediction. The Random Forest model achieved a reported ROC-AUC of 0.9088 on the project evaluation.
+
+### Global Energy Intelligence Dashboard
+Interactive exploration and visualization of global energy trends using Our World in Data.
+
+### EcoSort Vision
+Computer-vision project for waste-image classification using a CNN, TensorFlow, and Flask.
+
+## Connect
+
+- GitHub: https://github.com/devi-chandra
+- Portfolio: https://jdevi-portfolio.netlify.app
